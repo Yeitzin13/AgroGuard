@@ -1,0 +1,2 @@
+# AgroGuard-2
+SISTEMA DE GESTIÓN DE PLAGAS · v1.0
